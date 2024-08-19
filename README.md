@@ -1,10 +1,11 @@
-###     Ola eu sou o Cauã 💀💀💀
+###     Ola eu sou o Cauã HENRIQUE 💀💀💀
 
 
 ![ Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Blog](    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
 ![cauaznnnn GitHub stats](https://github-readme-stats.vercel.app/api?username=cauaznnnn&show_icons=true&theme=gruvbox)
 
 ### TECNOLOGIAS QUE EU USO NO DIA A DIA
