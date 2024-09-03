@@ -6,7 +6,19 @@
 ![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Blog](    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-![cauaznnnn GitHub stats](https://github-readme-stats.vercel.app/api?username=cauaznnnn&show_icons=true&theme=gruvbox)
+
+
+  ![cauaznnnn GitHub stats](https://github-readme-stats.vercel.app/api?username=cauaznnnn&show_icons=true&theme=highcontrast) 
+<div >
+    
+  <img src="https://streak-stats.demolab.com?user=cauaznnnn&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+  <img src="https://github-profile-trophy.vercel.app?username=cauaznnnn&theme=midnight_purple&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauaznnnn&radius=16&theme=midnight_purple&area=true&order=5" height="300" alt="activity-graph graph"  />
+  </div>
+###
+
+###
 
 ### TECNOLOGIAS QUE EU USO NO DIA A DIA
 
